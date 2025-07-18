@@ -1,0 +1,4 @@
+com.plcoding.bookpedia.test.composeApp-androidTest-0 /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/build/generated/res/resValues/androidTest/debug
+com.plcoding.bookpedia.test.composeApp-mergeDebugAndroidTestResources-1 /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.plcoding.bookpedia.test.composeApp-mergeDebugAndroidTestResources-2 /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.plcoding.bookpedia.test.composeApp-debugAndroidTest-3 /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
