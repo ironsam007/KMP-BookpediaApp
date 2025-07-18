@@ -9,8 +9,8 @@ import org.jetbrains.compose.resources.DrawableResource
 import org.jetbrains.compose.resources.InternalResourceApi
 
 private object CommonMainDrawable0 {
-  public val book_error_2: DrawableResource by 
-      lazy { init_book_error_2() }
+  public val boo_error_2: DrawableResource by 
+      lazy { init_boo_error_2() }
 
   public val compose_multiplatform: DrawableResource by 
       lazy { init_compose_multiplatform() }
@@ -18,19 +18,18 @@ private object CommonMainDrawable0 {
 
 @InternalResourceApi
 internal fun _collectCommonMainDrawable0Resources(map: MutableMap<String, DrawableResource>) {
-  map.put("book_error_2", CommonMainDrawable0.book_error_2)
+  map.put("boo_error_2", CommonMainDrawable0.boo_error_2)
   map.put("compose_multiplatform", CommonMainDrawable0.compose_multiplatform)
 }
 
-internal val Res.drawable.book_error_2: DrawableResource
-  get() = CommonMainDrawable0.book_error_2
+internal val Res.drawable.boo_error_2: DrawableResource
+  get() = CommonMainDrawable0.boo_error_2
 
-private fun init_book_error_2(): DrawableResource =
-    org.jetbrains.compose.resources.DrawableResource(
-  "drawable:book_error_2",
+private fun init_boo_error_2(): DrawableResource = org.jetbrains.compose.resources.DrawableResource(
+  "drawable:boo_error_2",
     setOf(
       org.jetbrains.compose.resources.ResourceItem(setOf(),
-    "composeResources/cmp_bookpedia.composeapp.generated.resources/drawable/book_error_2.xml", -1, -1),
+    "composeResources/cmp_bookpedia.composeapp.generated.resources/drawable/boo_error_2.xml", -1, -1),
     )
 )
 
