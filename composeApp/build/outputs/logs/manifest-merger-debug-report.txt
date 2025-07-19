@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:1-24:12
 MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/issamabida/.gradle/caches/8.9/transforms/57a609e541280454ece7f9e1556128fc/transformed/koin-androidx-compose-4.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [io.insert-koin:koin-android:4.0.0] /Users/issamabida/.gradle/caches/8.9/transforms/25c7d45dcc418250bd985eaade7ecb61/transformed/koin-android-4.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.0-rc02] /Users/issamabida/.gradle/caches/8.9/transforms/01e48adfe791779f6117f3e5321eb9ce/transformed/coil-compose-release/AndroidManifest.xml:2:1-7:12
@@ -96,9 +96,13 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/issamabida/.grad
 		INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
-INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:5:5-22:19
+INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:5:5-22:19
 MERGED from [io.insert-koin:koin-android:4.0.0] /Users/issamabida/.gradle/caches/8.9/transforms/25c7d45dcc418250bd985eaade7ecb61/transformed/koin-android-4.0.0/AndroidManifest.xml:7:5-20
 MERGED from [io.insert-koin:koin-android:4.0.0] /Users/issamabida/.gradle/caches/8.9/transforms/25c7d45dcc418250bd985eaade7ecb61/transformed/koin-android-4.0.0/AndroidManifest.xml:7:5-20
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/issamabida/.gradle/caches/8.9/transforms/b63bf2fe7819153f06d188747f78c66b/transformed/library-release/AndroidManifest.xml:7:5-14:19
@@ -124,35 +128,35 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/issamabida/.gradle/c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/issamabida/.gradle/caches/8.9/transforms/101f9bbf6d23e742ae300dc6556703ec/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:11:9-72
 activity#com.plcoding.bookpedia.MainActivity
-ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:12:9-21:20
 	android:exported
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:13:13-36
 	android:configChanges
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:14:13-225
 	android:name
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+		ADDED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/issamabida/IronSpace/CMP-Bookpedia/composeApp/src/androidMain/AndroidManifest.xml

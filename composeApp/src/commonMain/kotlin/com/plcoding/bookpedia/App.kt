@@ -4,18 +4,15 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.plcoding.bookpedia.book.presentation.book_lits.BookListScreenRoot
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
-
-import cmp_bookpedia.composeapp.generated.resources.Res
-import cmp_bookpedia.composeapp.generated.resources.compose_multiplatform
-import com.plcoding.bookpedia.book.presentation.book_lits.BooListScreenRoot
 import com.plcoding.bookpedia.book.presentation.book_lits.BookListViewModel
 
 @Composable
 @Preview
 fun App() { //This is the Entry point to app on multi-Platforms
-    BooListScreenRoot(
+    BookListScreenRoot(
         viewModel  = remember { BookListViewModel() },
         onBookClick = {}
     )
